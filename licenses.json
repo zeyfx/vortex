@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "SEU_ID_DE_USUARIO_DISCORD",
+    "expiration_date": "2099-12-31"
+  },
+  {
+    "user_id": "ID_DE_UM_USUARIO_VALIDO",
+    "expiration_date": "2025-10-20"
+  },
+  {
+    "user_id": "ID_DE_UM_USUARIO_EXPIRADO",
+    "expiration_date": "2023-01-01"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Serum",
+    "tags": ["VST", "Windows", "Mac"],
+    "descricao": "Um sintetizador wavetable avançado e popular.",
+    "link": "https://xferrecords.com/products/serum"
+  },
+  {
+    "id": 2,
+    "nome": "Cymatics - Trap Starter Pack",
+    "tags": ["Drum Kit", "Windows", "Mac"],
+    "descricao": "Samples de bateria essenciais para produção de trap.",
+    "link": "https://cymatics.fm/"
+  },
+  {
+    "id": 3,
+    "nome": "Arturia - Analog Lab V",
+    "tags": ["VST"],
+    "descricao": "Coleção vasta de teclados e sintetizadores clássicos.",
+    "link": "https://www.arturia.com/products/software-instruments/analog-lab-v/overview"
+  },
+  {
+    "id": 4,
+    "nome": "Essential Lo-fi Samples",
+    "tags": ["Sample Pack", "Lo-fi"],
+    "descricao": "Loops e melodias para criar músicas no estilo lo-fi.",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "nome": "Valhalla Supermassive",
+    "tags": ["VST", "Reverb", "Gratuito", "Windows", "Mac"],
+    "descricao": "Plugin gratuito de reverb e delay com sons massivos.",
+    "link": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
+  },
+  {
+    "id": 6,
+    "nome": "Spitfire Audio - LABS",
+    "tags": ["Sample Pack", "Orquestral", "Gratuito"],
+    "descricao": "Instrumentos de software gratuitos e de alta qualidade.",
+    "link": "https://labs.spitfireaudio.com/"
+  }
+]
