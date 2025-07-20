@@ -1,6 +1,6 @@
 [
   {
-    "id": "serum-2",
+    "id": 1,
     "nome": "Serum",
     "tags": ["VST", "Windows", "Mac"],
     "descricao": "Um sintetizador wavetable avançado e popular.",
