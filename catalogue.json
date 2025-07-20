@@ -1,44 +1,18 @@
 [
   {
-    "id": "Serum-2-WIN",
-    "nome": "Serum 2",
+    "id": "serum-2",
+    "nome": "Serum",
     "tags": ["VST", "Windows", "Mac"],
     "descricao": "Um sintetizador wavetable avançado e popular.",
-    "link": "magnet:?xt=urn:btih:3B0B970635B67031F2A9EA1468CF6E842A367334&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20Serum%202%202.0.19%20X%202.0.19%20STANDALONE%2C%20VSTi3%2C%20AAX%20x64%20%5B27.05.2025%5D%20V.R%20TCD"
+    "link": "magnet:?xt=urn:btih:3B0B970635B67031F2A9EA1468CF6E842A367334&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20Serum%202%202.0.19%20X%202.0.19%20STANDALONE%2C%20VSTi3%2C%20AAX%20x64%20%5B27.05.2025%5D%20V.R%20TCD",
+    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/main/desc/serum.md"
   },
   {
     "id": 2,
     "nome": "Cymatics - Trap Starter Pack",
     "tags": ["Drum Kit", "Windows", "Mac"],
     "descricao": "Samples de bateria essenciais para produção de trap.",
-    "link": "https://cymatics.fm/"
-  },
-  {
-    "id": 3,
-    "nome": "Arturia - Analog Lab V",
-    "tags": ["VST"],
-    "descricao": "Coleção vasta de teclados e sintetizadores clássicos.",
-    "link": "https://www.arturia.com/products/software-instruments/analog-lab-v/overview"
-  },
-  {
-    "id": 4,
-    "nome": "Essential Lo-fi Samples",
-    "tags": ["Sample Pack", "Lo-fi"],
-    "descricao": "Loops e melodias para criar músicas no estilo lo-fi.",
-    "link": "#"
-  },
-  {
-    "id": 5,
-    "nome": "Valhalla Supermassive",
-    "tags": ["VST", "Reverb", "Gratuito", "Windows", "Mac"],
-    "descricao": "Plugin gratuito de reverb e delay com sons massivos.",
-    "link": "https://valhalladsp.com/shop/reverb/valhalla-supermassive/"
-  },
-  {
-    "id": 6,
-    "nome": "Spitfire Audio - LABS",
-    "tags": ["Sample Pack", "Orquestral", "Gratuito"],
-    "descricao": "Instrumentos de software gratuitos e de alta qualidade.",
-    "link": "https://labs.spitfireaudio.com/"
+    "link": "https://cymatics.fm/",
+    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/main/descriptions/trap-starter-pack.md"
   }
 ]
