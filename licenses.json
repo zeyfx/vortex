@@ -1,17 +1,5 @@
 [
-  {
-    "user_id": "1098419409296556172",
-    "add_date": "2024-01-01 00:00:00",
-    "remove_date": "2025-07-20 10:59:59"
-  },
-  {
-    "user_id": "ID_DE_UM_USUARIO_VALIDO_AGORA",
-    "add_date": "2025-07-20 17:50:00",
-    "remove_date": "2025-07-21 17:49:00"
-  },
-  {
-    "user_id": "ID_DE_UM_USUARIO_EXPIRADO",
-    "add_date": "2023-01-01 00:00:00",
-    "remove_date": "2023-01-31 23:59:59"
-  }
+  "1098419409296556172",
+  "ID_DE_OUTRO_USUARIO_PERMITIDO",
+  "ID_DE_MAIS_UM_USUARIO"
 ]
