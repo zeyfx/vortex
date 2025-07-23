@@ -1,11 +1,8 @@
-### O Sintetizador dos Sonhos
+### 	Xfer Records Serum v2.0.20 (Win64; AAX, VST3)
 
-Serum é um sintetizador wavetable avançado que torna a criação de sons complexos visual e criativamente gratificante. Se você busca sons eletrônicos de ponta, Serum é a ferramenta definitiva.
+Mais informações https://www.xferrecords.com/products/serum-2
 
-#### Principais Características:
-* **Editor de Wavetable:** Importe áudio, analise e edite wavetables de maneiras profundas.
-* **Osciladores de Alta Qualidade:** Reprodução ultra-limpa com osciladores que minimizam artefatos sonoros.
-* **Modulação Flexível:** Sistema de arrastar e soltar para conectar fontes de modulação a destinos.
-* **Efeitos Integrados:** Inclui 10 efeitos de alta qualidade, como reverb, delay, compressor e mais.
+• Desative o anti-virus.
+• Instale e aplique o patcher. 
 
-> Serum é a escolha de produtores renomados em todo o mundo para criar baixos potentes, leads cortantes e pads evolutivos.
+Team V.R
