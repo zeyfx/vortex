@@ -2,7 +2,8 @@
 
 Mais informações https://www.xferrecords.com/products/serum-2
 
-• Desative o anti-virus.
-• Instale e aplique o patcher. 
+Desative o anti-virus.
+
+Instale e aplique o patcher. 
 
 Team V.R
