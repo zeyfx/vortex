@@ -16,9 +16,7 @@
 
 4.  Abra o FL Studio, vá em "Unlock FL Studio" \> "Unlock with file". Clique no botão "More...", depois em "Save validation file..." e salve o arquivo `licensevalidation.txt` em um local de sua preferência. **Feche o FL Studio** (não minimize, saia do programa).
 
-5.  Execute o `ID Patcher.exe` (que foi copiado para a pasta do programa). No campo "ID", copie o ID que está no arquivo `licensevalidation.txt` e clique em "Patch". Se o patcher exibir "Can't access to file. Patching FAILED\!\!\!", execute-o com direitos de administrador. Após usar o patcher, você pode excluí-lo.
-
-    ► ASSISTIR VÍDEO
+5.  Execute o `ID Patcher.exe` (que foi copiado para a pasta do programa). No campo "ID", copie o ID que está no arquivo `licensevalidation.txt` e clique em "Patch". Se o patcher exibir "Can't access to file. Patching FAILED\!\!\!", execute-o com direitos de administrador. Após usar o patcher, você pode excluí-lo (caso não funcione, desabilite o Antivirus).
 
 6.  **Substitua** o arquivo `engine_x64.dll` na seguinte pasta:
 
