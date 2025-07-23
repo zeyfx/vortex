@@ -5,7 +5,7 @@
     "tags": ["VST", "Windows"],
     "descricao": "v2.0.20",
     "link": "magnet:?xt=urn:btih:F5CABA45B0A28281CD697D8EF2E4C2B6377FFB44&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%202%20v2.0.20%20%5BV.R%5D%20VST3%7CAAX%20%5BWIN%5D%20%5B03.07.2025%5D",
-    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/main/desc/serum2win.md"
+    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/serum2win.md"
   },
   {
     "id": 2,
@@ -13,6 +13,6 @@
     "tags": ["Windows", "Software"],
     "descricao": "Image-Line - FL Studio Producer Edition 24.2.2 Build 4597 All Plugins Edition (x64)",
     "link": "magnet:?xt=urn:btih:239F7FF82CE720893F24DD533417B15943822FD2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2024.2.2%20Build%204597%20All%20Plugins%20Edition%20(x64)%20%5B05.02.2025%2C%20Multi%2C%20NO%20RUS%5D%20(WD)",
-    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/main/desc/flstudio24win.md"
+    "description_md_url": "https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/flstudio24win.md"
   }
 ]
