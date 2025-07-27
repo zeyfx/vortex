@@ -54,6 +54,14 @@
       "descricao":"Kontakt 8 v8.5.1 [bobdule] VST3|AAX|SAL [WIN]",
       "link":"magnet:?xt=urn:btih:B6C00D707B87D53B2BB1448617C67F3789D7CA78&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20-%20Kontakt%208%20v8.5.1%20%5Bbobdule%5D%20VST3%7CAAX%7CSAL%20%5BWIN%5D%20%5B18.07.2025%5D",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/kontakt8win.md"
+   },
+   {
+      "id":8,
+      "nome":"Antares - Auto-Tune Ilimitado",
+      "tags":["Windows","VST"],
+      "descricao":"Antares - Auto-Tune Ilimitado VST3/AAX x64",
+      "link":"magnet:?xt=urn:btih:DAEBC97E0126993A6BCF7DFEEF77602D05DCD54B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Antares%20-%20Auto-Tune%20Unlimited%20VST3%2FAAX%20x64%20%5B20.01.2024%5D",
+      "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/autotuneunlimitedwin.md"
    }
 
 ]
