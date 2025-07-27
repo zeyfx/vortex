@@ -1,4 +1,4 @@
-Aqui está um tutorial visualmente agradável para gerenciar a instalação do Waves, incluindo desinstalação, instalação de runtimes e solução de problemas com servidores em segundo plano:
+
 
 ---
 
