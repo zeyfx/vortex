@@ -1,18 +1,18 @@
 [
    {
       "id":1,
-      "nome":"Xfer Records Serum ",
+      "nome":"Xfer Records - Serum 2",
       "tags":[
          "Windows",
          "VST"
       ],
-      "descricao":"v2.0.20",
+      "descricao":"Xfer Records - Serum 2 v2.0.20 [VR] VST3|AAX [WIN] [07/03/2025]",
       "link":"magnet:?xt=urn:btih:F5CABA45B0A28281CD697D8EF2E4C2B6377FFB44&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%202%20v2.0.20%20%5BV.R%5D%20VST3%7CAAX%20%5BWIN%5D%20%5B03.07.2025%5D",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/serum2win.md"
    },
    {
       "id":2,
-      "nome":"Image-Line - FL Studio",
+      "nome":"Image-Line - FL Studio 24",
       "tags":[
          "Windows",
          "Software"
@@ -23,25 +23,25 @@
    },
    {
       "id":3,
-      "nome":"Output Portal",
+      "nome":"Output - Portal",
       "tags":[
          "Windows",
          "VST"
       ],
-      "descricao":"v1.2.1 VST/VST3/AAX x86 x64 [13.3.2023]-R2R",
+      "descricao":"Output - Portal v1.2.1 VST/VST3/AAX x86 x64 [13.3.2023]-R2R",
       "link":"magnet:?xt=urn:btih:E27EDE234014906498C08E075512C8FDEEB7A8A4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Output%20-%20Portal%20v1.2.1%20VST%2FVST3%2FAAX%20x86%20x64%20%5B13.3.2023%5D-R2R",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/portalwin.md"
    },
    {
       "id":4,
-      "nome":"reFX-Nexus 5",
+      "nome":"reFX - Nexus 5",
       "tags":[
          "Windows",
          "Mac",
          "VST"
       ],
-      "descricao":"v5.2.17 [V.R] VST|VST3|AAX [WIN] [25.06.2025]",
-      "link":"discord.gg/clubevortex",
+      "descricao":"reFX - Nexus 5 v5.2.18 [VR] VST|VST3|AAX|AU [WIN|MAC] [07/23/2025]",
+      "link":"magnet:?xt=urn:btih:F2EB1DE44D13B104CCEDAC43D89FBF45EB216197&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=reFX%20-%20Nexus%205%20v5.2.18%20%5BV.R%5D%20VST%7CVST3%7CAAX%7CAU%20%5BWIN%7CMAC%5D%20%5B23.07.2025%5D",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/refxnexus5winmac.md"
    }
 ]
