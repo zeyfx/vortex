@@ -1,4 +1,3 @@
-Here's a visually appealing tutorial for installing Ableton Live 12 Suite:
 
 ---
 
