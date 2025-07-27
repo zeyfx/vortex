@@ -2,10 +2,7 @@
    {
       "id":1,
       "nome":"Xfer Records - Serum 2",
-      "tags":[
-         "Windows",
-         "VST"
-      ],
+      "tags":["Windows","VST"],
       "descricao":"Xfer Records - Serum 2 v2.0.20 [VR] VST3|AAX [WIN] [07/03/2025]",
       "link":"magnet:?xt=urn:btih:F5CABA45B0A28281CD697D8EF2E4C2B6377FFB44&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%202%20v2.0.20%20%5BV.R%5D%20VST3%7CAAX%20%5BWIN%5D%20%5B03.07.2025%5D",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/serum2win.md"
@@ -13,10 +10,7 @@
    {
       "id":2,
       "nome":"Image-Line - FL Studio 24",
-      "tags":[
-         "Windows",
-         "Software"
-      ],
+      "tags":["Windows","DAW"],
       "descricao":"Image-Line - FL Studio Producer Edition 24.2.2 Build 4597 All Plugins Edition (x64)",
       "link":"magnet:?xt=urn:btih:239F7FF82CE720893F24DD533417B15943822FD2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2024.2.2%20Build%204597%20All%20Plugins%20Edition%20(x64)%20%5B05.02.2025%2C%20Multi%2C%20NO%20RUS%5D%20(WD)",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/flstudio24win.md"
@@ -24,10 +18,7 @@
    {
       "id":3,
       "nome":"Output - Portal",
-      "tags":[
-         "Windows",
-         "VST"
-      ],
+      "tags":["Windows","VST"],
       "descricao":"Output - Portal v1.2.1 VST/VST3/AAX x86 x64 [13.3.2023]-R2R",
       "link":"magnet:?xt=urn:btih:E27EDE234014906498C08E075512C8FDEEB7A8A4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Output%20-%20Portal%20v1.2.1%20VST%2FVST3%2FAAX%20x86%20x64%20%5B13.3.2023%5D-R2R",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/portalwin.md"
@@ -35,13 +26,17 @@
    {
       "id":4,
       "nome":"reFX - Nexus 5",
-      "tags":[
-         "Windows",
-         "Mac",
-         "VST"
-      ],
+      "tags":["Windows","Mac","VST"],
       "descricao":"reFX - Nexus 5 v5.2.18 [VR] VST|VST3|AAX|AU [WIN|MAC] [07/23/2025]",
       "link":"magnet:?xt=urn:btih:F2EB1DE44D13B104CCEDAC43D89FBF45EB216197&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=reFX%20-%20Nexus%205%20v5.2.18%20%5BV.R%5D%20VST%7CVST3%7CAAX%7CAU%20%5BWIN%7CMAC%5D%20%5B23.07.2025%5D",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/refxnexus5winmac.md"
+   },
+   {
+      "id":5,
+      "nome":"Arturia Analog Lab V Pro",
+      "tags":["Windows","VST"],
+      "descricao":"Arturia Analog Lab V Pro v5.12.0 STANDALONE, VSTi, VSTi3, AAX x64 [07/18/2025](VR)",
+      "link":"magnet:?xt=urn:btih:99569ADEF8312670D5791B7756871088D6BD3B45&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Arturia%20Analog%20Lab%20V%20Pro%20v5.12.0%20STANDALONE%2C%20VSTi%2C%20VSTi3%2C%20AAX%20x64%20%5B18.07.2025%5D(V.R)",
+      "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/analoglabvprowin.md"
    }
 ]
