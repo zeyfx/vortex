@@ -1,6 +1,7 @@
 {
-    "latest_version": "1.1.0",
-    "minimum_required_version": "1.1.0",
-    "download_url": "https://github.com/zeyfx/vortex/releases/download/bugfix/VortexAppInstaller_v1.0.exe",
-    "release_notes": "- Adicionado sistema de cache para inicialização mais rápida.\n- Corrigido bug que impedia o carregamento de descrições.\n- Melhorias gerais de performance."
+  "latest_version": "1.1.0",
+  "minimum_required_version": "1.1.0",
+  "release_tag": "v1.1.0",
+  "asset_name": "VortexAppInstaller_v1.0.exe",
+  "release_notes": "- Adicionado atualizador automático dentro do app.\n- Correções de bugs e melhorias de performance."
 }
