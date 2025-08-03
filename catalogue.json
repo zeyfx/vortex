@@ -86,6 +86,7 @@
       "tags":["Windows","VST"],
       "descricao":"FabFilter - Total Bundle v2025.05.15 [R2R] VST|VST3|AAX|CLAP [WIN]",
       "link":"magnet:?xt=urn:btih:D93ED383EE9151CF6F18CF9315118AEDA3E83BA4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=FabFilter%20-%20Total%20Bundle%20v2025.05.15%20%5BR2R%5D%20VST%7CVST3%7CAAX%7CCLAP%20%5BWIN%5D%20%5B22.06.2025%5D",
+      "thumbnail_url":"https://raw.githubusercontent.com/zeyfx/vortex/main/img/fabfiltertotalbundle.png",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/fabfiltertotalbundlewin.md"
    },
    {
@@ -94,6 +95,7 @@
       "tags":["Windows","VST"],
       "descricao":"Valhalla DSP - Valhalla DSP bundle 2021.12 VST, VST3, AAX x64",
       "link":"magnet:?xt=urn:btih:9EB473CF1FE4C197357942C61655F1F5EEB23934&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Valhalla%20DSP%20-%20Valhalla%20DSP%20bundle%202021.12%20VST%2C%20VST3%2C%20AAX%20x64%20(12.2021)",
+      "thumbnail_url":"https://raw.githubusercontent.com/zeyfx/vortex/main/img/valhalladpsbundle.png",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/valhalladpsbundlewin.md"
    },
    {
@@ -102,6 +104,7 @@
       "tags":["Windows","VST"],
       "descricao":"Output - Thermal v1.2.1 VST/VST3/AAX x86 x64",
       "link":"magnet:?xt=urn:btih:36D1DC5BB16DF1A6046FC8C64D35825D31495472&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Output%20-%20Thermal%20v1.2.1%20VST%2FVST3%2FAAX%20x86%20x64%20%5B13.3.2023%5D-R2R",
+      "thumbnail_url":"https://raw.githubusercontent.com/zeyfx/vortex/main/img/thermal.png",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/thermalwin.md"
    },
    {
@@ -110,6 +113,7 @@
       "tags":["Windows","Mac","VST"],
       "descricao":"Celemony - Melodyne Studio 5 v5.4.2.006 WIN/MAC SAL, VST3, AAX, AU {R2R/MORiA}",
       "link":"magnet:?xt=urn:btih:AA5D001BCCA9E2EB084F8FF1D892500B527C1A30&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Celemony%20-%20Melodyne%20Studio%205%20v5.4.2.006%20WIN%2FMAC%20SAL%2C%20VST3%2C%20AAX%2C%20AU%20%7BR2R%2FMORiA%7D%20%5B10.12.2024%5D",
+      "thumbnail_url":"https://raw.githubusercontent.com/zeyfx/vortex/main/img/melodyne5.4.png",
       "description_md_url":"https://raw.githubusercontent.com/zeyfx/vortex/refs/heads/main/desc/melodynestudio5winmac.md"   
    }
 ]
