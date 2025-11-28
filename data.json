@@ -1,11 +1,11 @@
 [
     {
-        "title": "teste",
+        "title": "teste2",
         "desc": "awqewqd dwqd wq",
         "thumb": "https://raw.githubusercontent.com/zeyfx/vortex/main/assets/thumbnails/1764230288_Adobe_InDesign_CC_icon.png",
         "link": "https://youtube.com",
         "category": "kit",
-        "md_path": "docs/teste.md",
+        "md_path": "docs/teste2.md",
         "disabled": false,
         "id": 1
     }
