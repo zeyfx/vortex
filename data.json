@@ -8,5 +8,15 @@
         "md_path": "docs/teste.md",
         "disabled": false,
         "id": 1
+    },
+    {
+        "title": "Esdftewsad",
+        "desc": "ewgq ihwqowew qenwqpinw eioqwn ",
+        "thumb": "https://raw.githubusercontent.com/zeyfx/vortex/main/assets/thumbnails/1764292836_Blender_logo_no_text.png",
+        "link": "https://youtube.com.br",
+        "category": "preset",
+        "md_path": "docs/esdftewsad.md",
+        "disabled": false,
+        "id": 2
     }
 ]
