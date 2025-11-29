@@ -2,10 +2,10 @@
   "packs": [
     {
       "id": "1",
-      "title": "Neon Nights Vol. 1",
+      "title": "Kontakt",
       "description": "Synthwave e Trap Melodies",
       "cover": "https://placehold.co/400x400/6d28d9/ffffff?text=Vol+1",
-      "downloadUrl": "https://github.com/zeyfx/vortex/raw/main/packs/vol1.zip",
+      "downloadUrl": "magnet:?xt=urn:btih:EB8DCF6F6893023F1638C8C17FC02CC8BDA3D607&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20Kontakt%208.6.0%20STANDALONE%20x64%20%5B2025%5D",
       "tags": ["Trap", "Synth"]
     },
     {
