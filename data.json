@@ -1,22 +1,20 @@
-[
+{
+  "packs": [
     {
-        "title": "teste",
-        "desc": "asdasdsadsadsawewq ew ewqewqsaddas dqwdwerqwrwqe qwdsads a",
-        "thumb": "https://raw.githubusercontent.com/zeyfx/vortex/main/assets/thumbnails/1764292616_Adobe_Photoshop_CC_icon.png",
-        "link": "https://youtube.com",
-        "category": "kit",
-        "md_path": "docs/teste.md",
-        "disabled": false,
-        "id": 1
+      "id": "1",
+      "title": "Neon Nights Vol. 1",
+      "description": "Synthwave e Trap Melodies",
+      "cover": "https://placehold.co/400x400/6d28d9/ffffff?text=Vol+1",
+      "downloadUrl": "https://github.com/zeyfx/vortex/raw/main/packs/vol1.zip",
+      "tags": ["Trap", "Synth"]
     },
     {
-        "title": "Esdftewsad",
-        "desc": "ewgq ihwqowew qenwqpinw eioqwn ",
-        "thumb": "https://raw.githubusercontent.com/zeyfx/vortex/main/assets/thumbnails/1764292836_Blender_logo_no_text.png",
-        "link": "https://youtube.com.br",
-        "category": "preset",
-        "md_path": "docs/esdftewsad.md",
-        "disabled": false,
-        "id": 2
+      "id": "2",
+      "title": "Drill Dark Kits",
+      "description": "Drumkit pesado para Drill",
+      "cover": "https://placehold.co/400x400/0a0a12/ffffff?text=Drill",
+      "downloadUrl": "https://github.com/zeyfx/vortex/raw/main/packs/drill.zip",
+      "tags": ["Drill", "Drums"]
     }
-]
+  ]
+}
