@@ -1,12 +1,28 @@
 {
   "packs": [
     {
+      "id": "1764444110522",
+      "title": "Teste",
+      "description": "bla bla bla",
+      "cover": "",
+      "downloadUrl": "https://youtube.com",
+      "tags": [
+        "Windows",
+        "Drumkit"
+      ],
+      "isVisible": true,
+      "markdownPath": "descriptions/1764444110522.md"
+    },
+    {
       "id": "1",
       "title": "Kontakt",
       "description": "Synthwave e Trap Melodies",
       "cover": "https://placehold.co/400x400/6d28d9/ffffff?text=Vol+1",
       "downloadUrl": "magnet:?xt=urn:btih:EB8DCF6F6893023F1638C8C17FC02CC8BDA3D607&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20Kontakt%208.6.0%20STANDALONE%20x64%20%5B2025%5D",
-      "tags": ["Trap", "Synth"]
+      "tags": [
+        "Trap",
+        "Synth"
+      ]
     },
     {
       "id": "2",
@@ -14,7 +30,10 @@
       "description": "Drumkit pesado para Drill",
       "cover": "https://placehold.co/400x400/0a0a12/ffffff?text=Drill",
       "downloadUrl": "https://github.com/zeyfx/vortex/raw/main/packs/drill.zip",
-      "tags": ["Drill", "Drums"]
+      "tags": [
+        "Drill",
+        "Drums"
+      ]
     }
   ]
 }
