@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "item-1",
+      "name": "Nome do Item",
+      "description": "Descrição em **Markdown**",
+      "category": "Categoria",
+      "tags": ["tag1", "tag2"],
+      "thumbnail": "https://i.imgur.com/...",
+      "downloadUrl": "https://...",
+      "externalUrl": "https://..."
+    }
+  ]
+}
